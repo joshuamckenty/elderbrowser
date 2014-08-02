@@ -7,3 +7,5 @@ Using @wercker for build and deployment pipelining.
 Installed https://atom.io/packages/wercker-status so I can keep an eye on it.
 Then I installed the command line tools following
  http://devcenter.wercker.com/articles/cli/installation.html
+
+[![wercker status](https://app.wercker.com/status/53dd43b8df12aee6380c35e5/m "wercker status")](https://app.wercker.com/project/bykey/53dd43b8df12aee6380c35e5)
