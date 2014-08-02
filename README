@@ -1,0 +1,4 @@
+Starting from a chromium build as per
+http://dev.chromium.org/developers/how-tos/get-the-code
+Also looked at CEF https://code.google.com/p/chromiumembedded/,
+for later research.
