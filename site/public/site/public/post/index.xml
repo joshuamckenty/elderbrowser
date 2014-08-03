@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+      <title>Posts on Because it&#39;s about time </title>
+      <generator uri="https://hugo.spf13.com">Hugo</generator>
+    <link>http://elderbrowser.com/post/index.xml</link>
+    <language>en-us</language>
+    
+    
+    <updated>Sun, 03 Aug 2014 03:55:38 UTC</updated>
+    
+    <item>
+      <title>first</title>
+      <link>http://elderbrowser.com/post/first</link>
+      <pubDate>Sun, 03 Aug 2014 03:55:38 UTC</pubDate>
+      
+      <guid>http://elderbrowser.com/post/first</guid>
+      <description>&lt;p&gt;Sometimes what you really need to do, is write some stuff.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
