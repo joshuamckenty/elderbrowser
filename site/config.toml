@@ -4,4 +4,4 @@ title = "Because it's about time"
 disqusShortname = "ElderBrowser"
 publishdir = "../public"
 buildDrafts = true
-theme = "hyde"
+theme = "herring-cove"
