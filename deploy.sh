@@ -2,11 +2,14 @@
 
 echo -e "\033[0;32mDeploying updates to Github...\033[0m"
 
+cd site
 # Build the project.
 hugo
 
+cd ../public
 # Add changes to git.
-git add -A site
+git add -A .
+cd ..
 
 # Commit changes.
 msg="rebuilding site `date`"
@@ -17,4 +20,4 @@ git commit -m "$msg"
 
 # Push source and build repos.
 git push origin master
-git subtree push --prefix=site/public git@github.com:joshuamckenty/elderbrowser.git gh-pages
+git subtree push --prefix=public git@github.com:joshuamckenty/elderbrowser.git gh-pages
