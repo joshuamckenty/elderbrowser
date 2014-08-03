@@ -1,7 +1,11 @@
 baseurl = "http://elderbrowser.com"
 languageCode = "en-us"
-title = "Because it's about time"
+title = "ElderBrowser"
 disqusShortname = "ElderBrowser"
 publishdir = "../public"
 buildDrafts = true
-theme = "herring-cove"
+theme = "hyde"
+
+[params]
+Description = "Because it's about time"
+Copyright = "No thanks."
