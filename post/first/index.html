@@ -7,12 +7,12 @@
   
   <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1">
 
-  <title> first &middot; ElderBrowser </title>
+  <title> Relaunching an old idea &middot; ElderBrowser </title>
 
   
-  <link rel="stylesheet" href="http://elderbrowser.com/css/poole.css">
-  <link rel="stylesheet" href="http://elderbrowser.com/css/syntax.css">
-  <link rel="stylesheet" href="http://elderbrowser.com/css/hyde.css">
+  <link rel="stylesheet" href="http://localhost:1313/css/poole.css">
+  <link rel="stylesheet" href="http://localhost:1313/css/syntax.css">
+  <link rel="stylesheet" href="http://localhost:1313/css/hyde.css">
   <link rel="stylesheet" href="http://fonts.googleapis.com/css?family=PT+Sans:400,400italic,700|Abril+Fatface">
 
   
@@ -37,7 +37,7 @@
     <ul class="sidebar-nav">
       <li><a href="/">Home</a> </li>
       
-        <li><a href="http://elderbrowser.com/about"> About </a></li>
+        <li><a href="http://localhost:1313/about"> About </a></li>
       
     </ul>
 
@@ -48,12 +48,16 @@
 
     <div class="content container">
 <div class="post">
-  <h1>first</h1>
+  <h1>Relaunching an old idea</h1>
   <span class="post-date">Sun, Aug 3, 2014</span>
-      <p>Sometimes what you really need to do, is write some stuff.</p>
+      <p>As was widely discussed in the summer of 2007, there is a well documented need
+for a web browser targeting the specific requirements of the aging population.</p>
 
 </div>
 </div>
 
-  </body>
+  <script>document.write('<script src="http://'
+        + (location.host || 'localhost').split(':')[0]
+		+ ':1313/livereload.js?mindelay=10"></'
+        + 'script>')</script></body>
 </html>

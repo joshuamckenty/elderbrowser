@@ -3,28 +3,29 @@
   <channel>
       <title>Recent Content on ElderBrowser </title>
       <generator uri="https://hugo.spf13.com">Hugo</generator>
-    <link>http://elderbrowser.com/index.xml</link>
+    <link>http://localhost:1313/index.xml</link>
     <language>en-us</language>
     
     
     <updated>Sun, 03 Aug 2014 03:55:38 UTC</updated>
     
     <item>
-      <title>first</title>
-      <link>http://elderbrowser.com/post/first</link>
+      <title>Relaunching an old idea</title>
+      <link>http://localhost:1313/post/first</link>
       <pubDate>Sun, 03 Aug 2014 03:55:38 UTC</pubDate>
       
-      <guid>http://elderbrowser.com/post/first</guid>
-      <description>&lt;p&gt;Sometimes what you really need to do, is write some stuff.&lt;/p&gt;
+      <guid>http://localhost:1313/post/first</guid>
+      <description>&lt;p&gt;As was widely discussed in the summer of 2007, there is a well documented need
+for a web browser targeting the specific requirements of the aging population.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>About</title>
-      <link>http://elderbrowser.com/about</link>
+      <link>http://localhost:1313/about</link>
       <pubDate>Sun, 03 Aug 2014 03:54:10 UTC</pubDate>
       
-      <guid>http://elderbrowser.com/about</guid>
+      <guid>http://localhost:1313/about</guid>
       <description>
 
 &lt;h2 id=&#34;toc_0&#34;&gt;ElderBrowser&lt;/h2&gt;

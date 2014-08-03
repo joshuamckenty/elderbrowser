@@ -2,18 +2,18 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://elderbrowser.com/</loc>
+    <loc>http://localhost:1313/</loc>
     <lastmod>2014-08-03T03:55:38+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://elderbrowser.com/post/first</loc>
+    <loc>http://localhost:1313/post/first</loc>
     <lastmod>2014-08-03T03:55:38+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://elderbrowser.com/about</loc>
+    <loc>http://localhost:1313/about</loc>
     <lastmod>2014-08-03T03:54:10+00:00</lastmod>
   </url>
   
