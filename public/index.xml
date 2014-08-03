@@ -20,7 +20,7 @@
     </item>
     
     <item>
-      <title>About the ElderBrowser Project</title>
+      <title>About</title>
       <link>http://elderbrowser.com/about</link>
       <pubDate>Sun, 03 Aug 2014 03:54:10 UTC</pubDate>
       
@@ -31,6 +31,8 @@
 
 &lt;p&gt;A basic idea: Let&amp;rsquo;s build a browser that&amp;rsquo;s optimized for the no-longer-young.
 And we can add more stuff here.&lt;/p&gt;
+
+&lt;p&gt;Such as, stuff. And such.&lt;/p&gt;
 </description>
     </item>
     
