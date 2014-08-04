@@ -1,1 +1,6 @@
-box: wercker/default
+box: joshuamckenty/elder-box
+build:
+    steps:
+        - script:
+            name: compile it
+            code: pwd && cd src && make
