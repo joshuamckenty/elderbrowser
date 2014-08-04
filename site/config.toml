@@ -1,6 +1,6 @@
 baseurl = "http://elderbrowser.com"
 languageCode = "en-us"
-title = "ElderBrowser"
+title = ""
 disqusShortname = "ElderBrowser"
 publishdir = "../public"
 buildDrafts = true
