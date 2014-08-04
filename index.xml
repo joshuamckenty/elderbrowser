@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-      <title>Recent Content on ElderBrowser </title>
+      <title>Recent Content on  </title>
       <generator uri="https://hugo.spf13.com">Hugo</generator>
     <link>http://elderbrowser.com/index.xml</link>
     <language>en-us</language>
@@ -17,6 +17,11 @@
       <guid>http://elderbrowser.com/post/first</guid>
       <description>&lt;p&gt;As was widely discussed in the summer of 2007, there is a well documented need
 for a web browser targeting the specific requirements of the aging population.&lt;/p&gt;
+
+&lt;p&gt;Some history can be found at &lt;a href=&#34;http://www.timegoesby.net/weblog/2007/08/you-can-help-bu.html&#34;&gt;http://www.timegoesby.net/weblog/2007/08/you-can-help-bu.html&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Early efforts are underway at &lt;a href=&#34;https://github.com/joshuamckenty/elderbrowser&#34;&gt;https://github.com/joshuamckenty/elderbrowser&lt;/a&gt;,
+feel free to contribute ideas or suggestions at &lt;a href=&#34;https://github.com/joshuamckenty/elderbrowser/issues&#34;&gt;https://github.com/joshuamckenty/elderbrowser/issues&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
