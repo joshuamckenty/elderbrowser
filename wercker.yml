@@ -3,4 +3,4 @@ build:
     steps:
         - script:
             name: compile it
-            code: pwd && cd src && make
+            code: pwd && ls -al && cd ../src && make
