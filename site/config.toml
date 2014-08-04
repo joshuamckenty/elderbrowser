@@ -7,5 +7,5 @@ buildDrafts = true
 theme = "hyde"
 
 [params]
-Description = "Because it's about time"
-Copyright = "No thanks."
+Description = "Reading Glasses for the Web"
+Copyright = "Copyright &copy; Bean Patch Studios, Inc. 2014"

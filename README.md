@@ -9,3 +9,7 @@ Then I installed the command line tools following
  http://devcenter.wercker.com/articles/cli/installation.html
 
 [![wercker status](https://app.wercker.com/status/53dd43b8df12aee6380c35e5/m "wercker status")](https://app.wercker.com/project/bykey/53dd43b8df12aee6380c35e5)
+
+
+ - http://www.ehow.com/info_8551183_colors-elderly.html
+ - http://www.paciellogroup.com/resources/contrastanalyser/
